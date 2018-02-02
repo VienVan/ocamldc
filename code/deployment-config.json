@@ -2,8 +2,8 @@
 	"type": "sftp",
 	"host": "unix.ucsc.edu",
 	"username": "vhvan",
-	"password": "VienisAwesome!",
+	"password": "",
 	"port": 22,
 	"remotePath": "/afs/cats.ucsc.edu/users/m/vhvan/CMPS112/asg2/code",
-	"uploadOnSave": true
+	"uploadOnSave": false
 }
